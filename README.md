@@ -1,5 +1,9 @@
 # ui-demo-package-library
 
+[https://www.npmjs.com/package/ui-demo-package-library](https://www.npmjs.com/package/ui-demo-package-library) <br />
+
+# ui-demo-package-library
+
 This is a demo library, it has two components. One is button component with two variants and other is card component with two variants.
 
 ## Button Variants 
@@ -11,6 +15,7 @@ This is a demo library, it has two components. One is button component with two 
 
 ![image](https://user-images.githubusercontent.com/87171452/162556493-ed1a9d73-67fa-419c-8e03-96d19a771439.png) <br />
 ![image](https://user-images.githubusercontent.com/87171452/162556500-14622a20-aa6e-4615-a766-1af8e7b81e9e.png)
+
 
 You can import this library into your project using the command 
 ``` sh
