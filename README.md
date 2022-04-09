@@ -25,6 +25,8 @@ Let's start by creating a fresh Vue project
 vue create projectname
 ```
 
+cd into the project directory 
+
 ``` sh 
 cd projectname 
 ``` 
